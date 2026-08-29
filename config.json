@@ -1,0 +1,11 @@
+{
+  "app": "Umniah-VPN",
+  "version": 1,
+  "enabled": true,
+  "server": {
+    "address": "",
+    "port": 443,
+    "protocol": "",
+    "config": ""
+  }
+}
