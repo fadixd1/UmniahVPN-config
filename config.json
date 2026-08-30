@@ -2,8 +2,8 @@
   "app": "Umniah-VPN",
   "version": 1,
   "enabled": true,
-  "server": us3.vproxyy.online,
-    "address": drugshortage.jp,
+  "server": {
+    "address": "",
     "port": 443,
     "protocol": "vmess",
     "config": "vmess://eyJhZGQiOiJkcnVnc2hvcnRhZ2UuanAiLCJwb3J0IjoiNDQzIiwiaWQiOiI3MjNmOTA1Mi1jY2I5LTRkOWUtYWZjZi1jNDEwZDRhMDBiNjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6IlwveGh0dHAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1czMudnByb3h5eS5vbmxpbmUiLCJwcyI6Iihzc2hzdG9yZXMtaHZnbmpnKSAtIFtWTWVzcyAtIFhIVFRQIFRMU10iLCJmcCI6InJhbmRvbSIsInYiOiIyIn0="
